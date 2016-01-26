@@ -6775,4 +6775,16 @@ height:392px
 .content-top2{height:380px;
 }
 
+.maincontentsleadop{
+  background-color: red;
+  margin: 20px 10px;
+  float: left;
+  width: 70%;
+}
+
+.sidebarleadop{
+  background-color: green;
+  margin: 20px 10px;
+  float: right;
+  width: 25%;}
 /*# sourceMappingURL=bootstrap.css.map */
