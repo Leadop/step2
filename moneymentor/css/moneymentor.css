@@ -6767,6 +6767,16 @@ button.close {
 
 /*ここから自前*/
 
+.header-rightendleadop{
+  float: right;
+}
+.header-rightendleadop li{
+  display: inline-block;
+  margin-left:20px; 
+  margin-top: 10px;
+}
+
+
 .content-top {
 background-image:url(../img/123785800721916330266_3.24-1.jpg);
 height:392px
